@@ -108,11 +108,14 @@
   wine
   winetricks
   gnome-software
-  
-  
-  
+  neovim
+  libreoffice
+  btop
+  kitty
+  python
+  cargo
   ];
-  
+
    hardware.nvidia = {
 
     # Modesetting is required.
